@@ -45,9 +45,3 @@ License
 =======
 [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-Contributing
-============
-Pull requests are welcome! Please sign
-[this Google Code contributor agreement](https://developers.google.com/open-source/cla/individual?csw=1)
-before submitting.
-
