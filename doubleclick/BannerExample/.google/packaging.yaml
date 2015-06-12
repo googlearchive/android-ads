@@ -6,7 +6,7 @@
 
 status:       DRAFT
 technologies: [Android, Google Play services, Google Mobile Ads]
-categories:   [Getting Started]
+categories:   [Monetization]
 languages:    [Java]
 solutions:    [Mobile]
 github:       googlesamples/android-ads

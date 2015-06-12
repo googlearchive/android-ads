@@ -1,4 +1,4 @@
-Doubleclick Banner Sample for Android
+Doubleclick Banner Sample
 =====================================
 
 This sample demonstrates how to request and display a Doubleclick For Publishers

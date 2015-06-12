@@ -1,4 +1,4 @@
-Admob Banner Sample for Android
+Admob Interstitial Sample
 ===============================
 
 This sample demonstrates how to request and display an AdMob interstitial ad

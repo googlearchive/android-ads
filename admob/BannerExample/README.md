@@ -1,4 +1,4 @@
-Admob Banner Sample for Android
+Admob Banner Sample
 ===============================
 
 This sample demonstrates how to request and display an AdMob banner ad in an
