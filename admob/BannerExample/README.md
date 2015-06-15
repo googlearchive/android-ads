@@ -1,5 +1,5 @@
-Admob Banner Sample
-===============================
+AdMob Banner Sample
+===================
 
 This sample demonstrates how to request and display an AdMob banner ad in an
 Android application. The app contains a single, "Hello World" activity with a

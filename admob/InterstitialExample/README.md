@@ -1,5 +1,5 @@
-Admob Interstitial Sample
-===============================
+AdMob Interstitial Sample
+=========================
 
 This sample demonstrates how to request and display an AdMob interstitial ad
 in an Android application. The code illustrates how to instantiate an

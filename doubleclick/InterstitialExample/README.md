@@ -1,5 +1,5 @@
-Doubleclick Interstitial Sample
-===========================================
+DoubleClick Interstitial Sample
+===============================
 
 This sample demonstrates how to request and display a Doubleclick For
 Publishers interstitial ad in an Android application. The code illustrates how

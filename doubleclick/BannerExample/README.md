@@ -1,5 +1,5 @@
-Doubleclick Banner Sample
-=====================================
+DoubleClick Banner Sample
+=========================
 
 This sample demonstrates how to request and display a Doubleclick For Publishers
 banner ad in an Android application. The app contains a single, "Hello World"
