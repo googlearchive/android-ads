@@ -16,8 +16,12 @@ How to Build
 ------------
 
 This sample uses the Gradle build system. To build the project, use the
-"gradlew build" command or the "Import Project" option in
-[Android Studio](http://developer.android.com/sdk/index.html).
+"gradlew build" command.
+
+To open this project with
+[Android Studio](http://developer.android.com/sdk/index.html), use the "Import
+project" choice in the welcome menu, and select the root directory of the
+project.
 
 Support
 -------
@@ -29,7 +33,7 @@ for documentation on using the SDK, and join the developer community on
 License
 -------
 
-Copyright 2014 The Android Open Source Project, Inc.
+Copyright 2013 Google Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for

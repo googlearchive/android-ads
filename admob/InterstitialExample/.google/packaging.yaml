@@ -4,7 +4,7 @@
 # End users may safely ignore this file. It has no relevance to other systems.
 ---
 
-status:       DRAFT
+status:       PUBLISHED
 technologies: [Android, Google Play services, Google Mobile Ads]
 categories:   [Monetization]
 languages:    [Java]

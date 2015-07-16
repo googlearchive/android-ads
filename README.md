@@ -16,13 +16,20 @@ Admob
 -----
 
 * [Banner](https://github.com/googleads/googleads-mobile-android-examples/tree/master/admob/BannerExample)
-* [Interstitial](https://github.com/googleads/googleads-mobile-android-examples/tree/master/admob/interstitial)
+* [Interstitial](https://github.com/googleads/googleads-mobile-android-examples/tree/master/admob/InterstitialExample)
+* [Native](https://github.com/googleads/googleads-mobile-android-examples/tree/master/admob/NativeExample)
 
 Doubleclick
 -----------
 
 * [Banner](https://github.com/googleads/googleads-mobile-android-examples/tree/master/doubleclick/BannerExample)
-* [Interstitial](https://github.com/googleads/googleads-mobile-android-examples/tree/master/doubleclick/interstitial)
+* [Interstitial](https://github.com/googleads/googleads-mobile-android-examples/tree/master/doubleclick/InterstitialExample)
+* [Native](https://github.com/googleads/googleads-mobile-android-examples/tree/master/doubleclick/NativeExample)
+
+Advanced (featuring both AdMob and DoubleClick technologies)
+------------------------------------------------------------
+
+* [APIDemo](https://github.com/googleads/googleads-mobile-android-examples/tree/master/APIDemo)
 
 Downloads
 =========
