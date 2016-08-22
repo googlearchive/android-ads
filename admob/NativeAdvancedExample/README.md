@@ -1,16 +1,17 @@
-AdMob Native Ads Express Sample
-===============================
+AdMob Native Advanced Sample
+============================
 
 This sample demonstrates how to request and display an ad from AdMob Native Ads
-Express in an Android application. The app loads and displays a single ad at the
-bottom of its activity.
+Advanced in an Android application. The app displays an ad at the top of its
+activity, and offers a few checkboxes and a button you can use to request
+different native ad formats.
 
 Prerequisites
 -------------
 
 - Android API Level v9 or higher
 - Android Build Tools v22 or higher
-- Google Repository v26 or higher
+- Google Repository v19 or higher
 
 How to Build
 ------------
@@ -26,15 +27,14 @@ project.
 Support
 -------
 
-You can find more information about Native Ads Express at our
-[Developer Site](https://firebase.google.com/docs/admob/). You can also join the
-developer community on
+You can see our [Developers' site](https://developers.google.com/mobile-ads-sdk/)
+for documentation on using the SDK, and join the developer community on
 [our forum](https://groups.google.com/forum/#!forum/google-admob-ads-sdk).
 
 License
 -------
 
-Copyright 2016 Google Inc.
+Copyright 2015 Google Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for

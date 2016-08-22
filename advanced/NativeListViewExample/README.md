@@ -1,16 +1,27 @@
-AdMob Native Ads Express Sample
-===============================
+DoubleClick For Publishers Advanced Native Example
+==================================================
 
-This sample demonstrates how to request and display an ad from AdMob Native Ads
-Express in an Android application. The app loads and displays a single ad at the
-bottom of its activity.
+This project is an advanced native ads example intended to show how publishers
+might construct a list-based user experience (such as a news feed might have)
+that incorporates multiple native ad formats.
+
+The project uses a single activity that maintains a ListView and an array of
+items. Most of these items are mocked listings for real estate, which stand in
+example application data. Placed among the sample listings are AdPlacement
+objects. These objects us AdFetchers to request ads from DFP Custom Rendering,
+construct NativeAdView instances to display them, and cache references to
+individual asset views in AdViewHolders.
+
+Most of the AdPlacement classes handle a single type of ad.
+The MultiFormatAdPlacement, however, can request and display App Install,
+Content, and either of two custom template formats.
 
 Prerequisites
 -------------
 
 - Android API Level v9 or higher
 - Android Build Tools v22 or higher
-- Google Repository v26 or higher
+- Google Repository v19 or higher
 
 How to Build
 ------------
@@ -26,15 +37,14 @@ project.
 Support
 -------
 
-You can find more information about Native Ads Express at our
-[Developer Site](https://firebase.google.com/docs/admob/). You can also join the
-developer community on
+You can see our [Developers' site](https://developers.google.com/mobile-ads-sdk/)
+for documentation on using the SDK, and join the developer community on
 [our forum](https://groups.google.com/forum/#!forum/google-admob-ads-sdk).
 
 License
 -------
 
-Copyright 2016 Google Inc.
+Copyright 2015 Google Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for

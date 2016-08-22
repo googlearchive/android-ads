@@ -1,9 +1,15 @@
-AdMob Native Ads Express Sample
-===============================
+Native Ads Express RecyclerView Sample
+============================================
 
-This sample demonstrates how to request and display an ad from AdMob Native Ads
-Express in an Android application. The app loads and displays a single ad at the
-bottom of its activity.
+This sample demonstrates how to request and display ads from AdMob Native Ads
+Express in an Android application using the RecyclerView widget.
+
+The RecyclerView widget is a more advanced and flexible version of ListView.
+This widget helps simplify the display and handling of large data sets by
+allowing the layout manager to determine when to reuse (recycle) item views that
+are no longer visible to the user. Recycling views improves performance by
+avoiding the creation of unnecessary views or performing expensive
+findViewByID() lookups.
 
 Prerequisites
 -------------
