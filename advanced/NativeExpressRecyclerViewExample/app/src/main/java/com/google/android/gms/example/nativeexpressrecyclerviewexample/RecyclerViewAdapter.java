@@ -120,7 +120,7 @@ class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
 
                 // Get the menu item image resource ID.
                 String imageName = menuItem.getImageName();
-                int imageResID = mContext.getResources().getIdentifier(imageName, "mipmap",
+                int imageResID = mContext.getResources().getIdentifier(imageName, "drawable",
                         mContext.getPackageName());
 
                 // Add the menu item details to the menu item view.
@@ -138,8 +138,16 @@ class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> 
                 NativeExpressAdView adView =
                         (NativeExpressAdView) mRecyclerViewItems.get(position);
                 ViewGroup adCardView = (ViewGroup) nativeExpressHolder.itemView;
+                // The NativeExpressAdViewHolder recycled by the RecyclerView may be a different
+                // instance than the one used previously for this position. Clear the
+                // NativeExpressAdViewHolder of any subviews in case it has a different
+                // AdView associated with it, and make sure the AdView for this position doesn't
+                // already have a parent of a different recycled NativeExpressAdViewHolder.
                 if (adCardView.getChildCount() > 0) {
                     adCardView.removeAllViews();
+                }
+                if (adView.getParent() != null) {
+                    ((ViewGroup) adView.getParent()).removeView(adView);
                 }
 
                 // Add the Native Express ad to the native express ad view.
