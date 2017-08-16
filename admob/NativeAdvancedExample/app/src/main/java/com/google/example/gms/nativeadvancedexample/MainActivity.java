@@ -127,6 +127,8 @@ public class MainActivity extends AppCompatActivity {
         ((TextView) adView.getHeadlineView()).setText(nativeAppInstallAd.getHeadline());
         ((TextView) adView.getBodyView()).setText(nativeAppInstallAd.getBody());
         ((Button) adView.getCallToActionView()).setText(nativeAppInstallAd.getCallToAction());
+        ((ImageView) adView.getIconView()).setImageDrawable(
+                nativeAppInstallAd.getIcon().getDrawable());
 
         // Apps can check the VideoController's hasVideoContent property to determine if the
         // NativeAppInstallAd has a video asset.
