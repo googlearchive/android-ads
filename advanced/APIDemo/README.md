@@ -8,9 +8,9 @@ Mobile Ads SDK for targeting, sizing, exclusions, custom events, and more.
 Prerequisites
 -------------
 
-- Android API Level v9 or higher
-- Android Build Tools v22 or higher
-- Google Repository v16 or higher
+- Android API Level v14 or higher
+- Android Build Tools v25 or higher
+- Play Services Ads v11.8.0 or higher
 
 How to Build
 ------------

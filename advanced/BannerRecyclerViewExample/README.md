@@ -1,8 +1,8 @@
-Native Ads Express RecyclerView Sample
+Banner RecyclerView Sample
 ============================================
 
-This sample demonstrates how to request and display ads from AdMob Native Ads
-Express in an Android application using the RecyclerView widget.
+This sample demonstrates how to request and display ads from AdMob Banner ads in an
+Android application using the RecyclerView widget.
 
 The RecyclerView widget is a more advanced and flexible version of ListView.
 This widget helps simplify the display and handling of large data sets by
@@ -14,9 +14,9 @@ findViewByID() lookups.
 Prerequisites
 -------------
 
-- Android API Level v9 or higher
-- Android Build Tools v22 or higher
-- Google Repository v26 or higher
+- Android API Level v14 or higher
+- Android Build Tools v25 or higher
+- Play Services Ads v11.8.0 or higher
 
 How to Build
 ------------
@@ -32,8 +32,8 @@ project.
 Support
 -------
 
-You can find more information about Native Ads Express at our
-[Developer Site](https://firebase.google.com/docs/admob/). You can also join the
+You can find more information about Banner ads at our
+[Developer Site](https://developers.google.com/mobile-ads-sdk/). You can also join the
 developer community on
 [our forum](https://groups.google.com/forum/#!forum/google-admob-ads-sdk).
 

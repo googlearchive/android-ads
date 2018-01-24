@@ -8,9 +8,9 @@ bottom of its activity.
 Prerequisites
 -------------
 
-- Android API Level v9 or higher
-- Android Build Tools v22 or higher
-- Google Repository v26 or higher
+- Android API Level v14 or higher
+- Android Build Tools v25 or higher
+- Play Services Ads v11.8.0 or higher
 
 How to Build
 ------------
@@ -27,7 +27,7 @@ Support
 -------
 
 You can find more information about Native Ads Express at our
-[Developer Site](https://firebase.google.com/docs/admob/). You can also join the
+[Developer Site](https://developers.google.com/mobile-ads-sdk/). You can also join the
 developer community on
 [our forum](https://groups.google.com/forum/#!forum/google-admob-ads-sdk).
 
