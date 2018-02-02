@@ -9,7 +9,7 @@ Prerequisites
 -------------
 
 - Android API Level v14 or higher
-- Android Build Tools v25 or higher
+- Android Build Tools v26 or higher
 - Play Services Ads v11.8.0 or higher
 
 How to Build
@@ -19,7 +19,7 @@ This sample uses the Gradle build system. To build the project, use the
 "gradlew build" command.
 
 To open this project with
-[Android Studio](http://developer.android.com/sdk/index.html), use the "Import
+[Android Studio](http://developer.android.com/studio/index.html), use the "Import
 project" choice in the welcome menu, and select the root directory of the
 project.
 

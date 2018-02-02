@@ -1,13 +1,9 @@
-AdMob Interstitial Sample
-=========================
+DoubleClick Rewarded Video Sample
+===================================
 
-This sample demonstrates how to request and display an AdMob interstitial ad
-in an Android application. The code illustrates how to instantiate an
-InterstitialAd object, preload an interstitial, and then display it.
-
-The app's UI contains a single activity with a countdown timer. When the timer
-reaches zero, the user can tap a "retry" button to display an interstitial and
-begin the countdown over again.
+This sample demonstrates how to request and display a rewarded video ad from
+DoubleClick in an Android application. It uses a countdown timer to simulate
+a game and rewards 'Coins' for watching the video ad.
 
 Prerequisites
 -------------
@@ -37,7 +33,7 @@ for documentation on using the SDK, and join the developer community on
 License
 -------
 
-Copyright 2013 Google Inc.
+Copyright 2015 Google Inc.
 
 Licensed to the Apache Software Foundation (ASF) under one or more contributor
 license agreements.  See the NOTICE file distributed with this work for
