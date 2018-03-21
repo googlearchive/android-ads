@@ -24,7 +24,6 @@ technical SDK support for our [Android developers](https://groups.google.com/for
 * [Interstitial](https://github.com/googlesamples/android-ads/tree/master/admob/InterstitialExample)
 * [Rewarded Video](https://github.com/googlesamples/android-ads/tree/master/admob/RewardedVideoExample)
 * [Native Advanced](https://github.com/googlesamples/android-ads/tree/master/admob/NativeAdvancedExample)
-* [Native Express](https://github.com/googlesamples/android-ads/tree/master/admob/NativeExpressExample)
 
 ## Advanced
 
