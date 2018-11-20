@@ -6,8 +6,7 @@ networks and advertising solutions. The SDK enables mobile app developers to
 maximize their monetization in native mobile apps.
 
 This repository contains open source examples and developer resources for both
-the AdMob and DoubleClick For Publishers components of the Google Mobile Ads
-SDK.
+the Google AdMob and Google Ad Manager components of the Google Mobile Ads SDK.
 
 # Google Mobile Ads SDK Developers forum
 
@@ -30,12 +29,12 @@ technical SDK support for our [Android developers](https://groups.google.com/for
 * [API Demo](https://github.com/googlesamples/android-ads/tree/master/advanced/APIDemo) - Provides additional examples for both AdMob and DoubleClick to help improve your mobile app integration of the Google Mobile Ads SDK.
 * [Banner RecyclerView](https://github.com/googlesamples/android-ads/tree/master/advanced/BannerRecyclerViewExample) - Provides an example for displaying ads from AdMob Banner ads in a RecyclerView widget.
 
-## DoubleClick
+## Ad Manager
 
-* [Banner](https://github.com/googlesamples/android-ads/tree/master/doubleclick/BannerExample)
-* [Interstitial](https://github.com/googlesamples/android-ads/tree/master/doubleclick/InterstitialExample)
-* [Rewarded Video](https://github.com/googlesamples/android-ads/tree/master/doubleclick/RewardedVideoExample)
-* [Custom Rendering](https://github.com/googlesamples/android-ads/tree/master/doubleclick/CustomRenderingExample)
+*   [Banner](https://github.com/googlesamples/android-ads/tree/master/admanager/BannerExample)
+*   [Interstitial](https://github.com/googlesamples/android-ads/tree/master/admanager/InterstitialExample)
+*   [Rewarded Video](https://github.com/googlesamples/android-ads/tree/master/admanager/RewardedVideoExample)
+*   [Custom Rendering](https://github.com/googlesamples/android-ads/tree/master/admanager/CustomRenderingExample)
 
 # Documentation
 
