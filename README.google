@@ -1,0 +1,13 @@
+The files in this directory are metadata and additional documentation to be
+included when the examples are posted to the Google Samples repository for use
+in Android Studio's "Import code sample" feature.
+
+Our moe configuration will ignore these files when deploying to the Google Ads
+Github repo. When deploying to the Google Samples Github repo, it will move the
+files into their proper locations and rename them to have their proper names.
+
+Google Ads Repo:
+https://github.com/googleads/googleads-mobile-android-examples
+
+Google Samples Repo:
+https://github.com/googlesamples/android-ads
